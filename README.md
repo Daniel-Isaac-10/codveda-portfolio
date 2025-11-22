@@ -39,6 +39,11 @@ portfolio/
 │── styles.css       # Styling and animations
 └── README.md        # Project documentation
 
+## 🌐 Live Demo
+
+Portfolio live at: https://daniel-isaac-10.github.io/codveda-portfolio/
+
+
 📸 Features
 
 Responsive and mobile-friendly UI
